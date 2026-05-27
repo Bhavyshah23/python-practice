@@ -1,0 +1,82 @@
+Day 1: Variables, Expressions & Statements
+Goal: Get comfortable with basic Python syntax.
+
+Create variables for your name, age, and height. Print them in one sentence.
+Calculate the area of a rectangle (length = 10, width = 5). Print the result.
+Take two numbers from user input and print their sum, difference, product, and division.
+Convert temperature from Celsius to Fahrenheit (Formula: F = C * 9/5 + 32).
+Bonus: Print "Hello World" 5 times using multiplication of string.
+
+Day 2: Conditional Execution (if-else)
+Goal: Learn decision making.
+
+Take age as input. Print "Adult" if age ≥ 18, else "Minor".
+Take a number and check if it is positive, negative, or zero.
+Take 3 subject marks. Calculate percentage and print grade (≥90=A, ≥75=B, etc.).
+Check if a number entered by user is even or odd.
+Bonus: Create a simple calculator — ask user for 2 numbers and operation (+, -, *, /) and show result.
+
+
+Day 3: Functions
+Goal: Learn reusable code.
+
+Write a function to greet a person (e.g., greet("Bhavy") → "Hello Bhavy!").
+Write a function that takes two numbers and returns their sum.
+Write a function to check if a number is even or odd and return True/False.
+Write a function calculate_area(length, width) that returns area of rectangle.
+Bonus: Write a function that takes name and age, then prints a message like "Hi [name], you are [age] years old."
+
+
+Day 4: Loops (for & while)
+Goal: Repetition and iteration.
+
+Print numbers from 1 to 10 using both for and while loop.
+Print multiplication table of 5 (5 x 1 = 5 ... up to 10).
+Take a number from user and print sum of all numbers from 1 to that number.
+Print all even numbers between 1 to 50.
+Bonus: Print this pattern:text*
+**
+***
+****
+*****
+
+Day 5: Strings + Files
+Goal: Text handling and file operations (Very Important for GenAI).
+
+Take a string from user and print its length, uppercase, and lowercase.
+Check if a string is palindrome (e.g., "radar").
+Count how many vowels are in a given string.
+File Exercise: Create a file notes.txt, write 3 lines in it, then read and print the content.
+Bonus: Read a text file and count total words in it.
+
+
+Day 6: Lists, Dictionaries & Tuples
+Goal: Working with data collections.
+
+Create a list of 5 fruits. Print them, add one more, and remove one.
+Create a dictionary of 5 students with their marks. Print average marks.
+Take 5 numbers in a list and print sum, max, and min.
+Create a list of numbers and print only numbers greater than 10.
+Bonus: Create a phonebook dictionary and allow user to search by name.
+
+
+Day 7: Revision + Mini Projects
+Goal: Combine everything + Build confidence.
+Mini Project 1: Simple Calculator (with functions + conditionals)
+Mini Project 2: Student Grade Management System
+
+Store student name + 3 subject marks in a dictionary
+Calculate percentage and grade
+Save data to a file
+
+Mini Project 3: Number Guessing Game
+
+Computer picks random number (1-100)
+User guesses with hints (Too high / Too low)
+
+
+Final Tips:
+
+Spend 30–45 minutes solving exercises after watching each section.
+If stuck, search “Python [topic] exercise solution” on Google.
+Save all your code in a folder called python-practice on GitHub (good for portfolio).
